@@ -10,7 +10,6 @@
 
 ### 👋 Hey there! I'm Vansh
 
-🔍 **QA Engineer** who believes shipping with confidence is an art.  
 I break things on purpose — so users never have to.
 
 *Currently @ **Synaptic** · Building automation frameworks · Making QA smarter with AI*
