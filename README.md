@@ -34,7 +34,6 @@ focus:
 
 currently_learning:
   - Advanced Playwright patterns
-  - CI/CD pipelines for test automation
   - API automation testing
 
 fun_fact: >
@@ -54,6 +53,7 @@ fun_fact: >
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-000000?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Languages**
 
@@ -84,13 +84,13 @@ fun_fact: >
 
 <div align="center">
 
-[![Playwright Automation](https://github-readme-stats.vercel.app/api/pin/?username=Vansharma8&repo=Playwright-Automation&theme=tokyonight&hide_border=true)](https://github.com/Vansharma8/Playwright-Automation)
+[![Playwright Automation](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vansharma8&repo=Playwright-Automation&theme=tokyonight&hide_border=true)](https://github.com/Vansharma8/Playwright-Automation)
 
 </div>
 
 ### 🎭 E2E Automation Framework — SauceDemo
 
-> *Playwright · JavaScript · Page Object Model*
+> *Playwright · JavaScript · Page Object Model · CI/CD*
 
 A production-style end-to-end automation framework built on **SauceDemo**, demonstrating real-world QA engineering practices.
 
@@ -99,6 +99,7 @@ A production-style end-to-end automation framework built on **SauceDemo**, demon
 - 🧪 Positive, negative & edge-case scenarios for all critical flows
 - 🔁 Reusable utilities, test hooks & clean assertions throughout
 - 🌐 Headless + headed execution with cross-browser validation
+- ⚙️ **CI pipeline via GitHub Actions** — tests auto-trigger on every push & pull request
 - 📊 Test execution reports for fast failure triage
 
 ---
@@ -107,14 +108,14 @@ A production-style end-to-end automation framework built on **SauceDemo**, demon
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vansharma8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansharma8&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vansharma8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vansharma8&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vansharma8&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Vansharma8&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -133,7 +134,7 @@ A production-style end-to-end automation framework built on **SauceDemo**, demon
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/vansh-sharma-a77774223/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-sharma-a77774223/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vansharma8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vansharma8)
 [![Email](https://img.shields.io/badge/Email-vansh.sharma2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh.sharma2004@gmail.com)
 
