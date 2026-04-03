@@ -80,13 +80,33 @@ fun_fact: >
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Playwright Automation](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vansharma8&repo=Playwright-Automation&theme=tokyonight&hide_border=true)](https://github.com/Vansharma8/Playwright-Automation)
+[![Playwright E-Commerce](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vansharma8&repo=playwright-ecommerce-automation&theme=tokyonight&hide_border=true)](https://github.com/Vansharma8/playwright-ecommerce-automation)
+&nbsp;&nbsp;
+[![Playwright SauceDemo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Vansharma8&repo=playwright-saucedemo-automation&theme=tokyonight&hide_border=true)](https://github.com/Vansharma8/playwright-saucedemo-automation)
 
 </div>
+
+---
+
+### 🎭 E-Commerce Automation Framework — AutomationExercise
+
+> *Playwright · JavaScript · Page Object Model · API Testing · CI/CD*
+
+A comprehensive automation framework covering the full e-commerce journey with both UI and API testing.
+
+- 📐 **Page Object Model** architecture across 6 page classes
+- 🛒 Full user journey automated: Login → Products → Cart → Checkout → Payment
+- 🔌 **14 REST API endpoints** validated — auth, products, brands, search & user management
+- 🌐 **Cross-browser** testing on Chromium, Firefox and WebKit (Safari)
+- ⚙️ **CI/CD via GitHub Actions** — auto-triggers on every push with HTML report artifacts
+- 🏷️ Smart tagging system: `@smoke` `@regression` `@positive` `@negative`
+- 📸 Screenshots & video captured automatically on test failure
+
+---
 
 ### 🎭 E2E Automation Framework — SauceDemo
 
